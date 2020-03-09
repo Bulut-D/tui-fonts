@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'TUIRegular';
+  src: url('https://github.com/Bulut-D/tui-fonts/blob/master/TUITypeLt_LATN_W_Rg.woff') format('woff');
+}
+@font-face {
+  font-family: 'TUIBold';
+  src: url('https://github.com/Bulut-D/tui-fonts/blob/master/TUITypeLt_LATN_W_Bd.woff') format('woff');
+}
