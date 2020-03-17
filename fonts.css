@@ -8,5 +8,5 @@
 }
 @font-face {
   font-family: 'NunitoRegular';
-  src: url('https://github.com/Bulut-D/tui-fonts/blob/master/NunitoSans-Regular.woff') format('woff');
+  src: url('../tui-fonts/blob/master/NunitoSans-Regular.woff') format('woff');
 }
